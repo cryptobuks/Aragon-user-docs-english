@@ -1,7 +1,7 @@
 # TAO Voting
 
 {% hint style="info" %}
-How we got here, and where we're going...
+TAO is currently in the proposal process, and the demo will be put to a token holder vote in the Fall.
 {% endhint %}
 
 ## The beginning...
