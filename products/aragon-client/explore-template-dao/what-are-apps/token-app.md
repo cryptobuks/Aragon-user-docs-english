@@ -57,7 +57,7 @@ In the _**Token Info**_ section you can see information about the token that is 
 
 How many tokens have been minted in total?
 
-### **Transferable** \_\_
+### **Transferable**
 
 Whether or not the token can be transferred to another entity after it has been assigned.
 
