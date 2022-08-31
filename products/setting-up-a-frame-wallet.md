@@ -18,7 +18,7 @@ You need a Metamask, Ledger or Trezor wallet to use Frame.
 
 Start by downloading Frame from the official website: [https://frame.sh](https://frame.sh). Afterwards, you will find Frame in your Menu bar.
 
-![](https://hack.aragon.org/docs/assets/frame/frame-intro.gif)
+<figure><img src="../.gitbook/assets/frame-intro (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## Configure your device <a href="#configure-your-device" id="configure-your-device"></a>
 
@@ -38,13 +38,13 @@ To import your Metamask wallet into Frame:
 
 On Ledger devices insert your pin to unlock it. Next open Frame.
 
-![](https://hack.aragon.org/docs/assets/frame/frame-ledger.gif)
+<figure><img src="../.gitbook/assets/frame-ledger.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Trezor**
 
 On Trezor devices insert your pin directly on Frame. You should now be able to select the network and account you would like to use.
 
-![](https://hack.aragon.org/docs/assets/frame/frame-trezor.gif)
+<figure><img src="../.gitbook/assets/frame-trezor.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Network**
 
@@ -60,7 +60,7 @@ Feel free to choose any of the following networks: **Rinkeby, Mainnet, Ropsten, 
 For this tutorial we will select Rinkeby.
 {% endhint %}
 
-![](https://hack.aragon.org/docs/assets/frame/frame-app-menu.gif)
+<figure><img src="../.gitbook/assets/frame-app-menu.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Accounts**
 
@@ -72,7 +72,7 @@ If you don't have any, you can request a Rinkeby faucet [here](https://faucet.ri
 
 In the configuration menu you can also manage the Dapp permissions you have granted for that particular account.&#x20;
 
-![](https://hack.aragon.org/docs/assets/frame/frame-accounts.gif)
+<figure><img src="../.gitbook/assets/frame-accounts.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 You are now finished setting up Frame for your device and ready to sign your first transaction.
