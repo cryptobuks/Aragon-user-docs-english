@@ -33,7 +33,7 @@ This name will be useful for accessing your DAO. Don't forget it!
 \_\_
 
 {% hint style="info" %}
-The Voting app parameters currently cannot be changed from the Aragon front-end client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the [aragonCLI](https://hack.aragon.org/docs/cli-intro.html).
+The Voting app parameters currently cannot be changed from the Aragon front-end client. To change the Voting app parameters after your organization has been created, you must first initialize the permissions to change these parameters, then you can change the parameters using the [aragonCLI](https://hack.aragon.org/developers/tools/aragoncli).
 {% endhint %}
 
 ### Configure the voting settings
