@@ -13,7 +13,7 @@ If you already have Frame installed and an "acting account" added, you can skip 
 {% endhint %}
 
 {% hint style="info" %}
-If you do not have Frame installed go [here](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/zhQIP88M8McmSaEGSymT/\~/changes/2tRI9YYqiKnfmdr7WSA1/users/products/set-up-frame-wallet).
+If you do not have Frame installed go [here](../../../../setting-up-a-frame-wallet.md).
 {% endhint %}
 
 ## **Send ETH (or test ETH) to your acting account**

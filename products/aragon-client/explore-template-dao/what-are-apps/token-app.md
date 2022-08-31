@@ -57,7 +57,7 @@ In the _**Token Info**_ section you can see information about the token that is 
 
 How many tokens have been minted in total?
 
-### **Transferable**
+### **Transferable** \_\_
 
 Whether or not the token can be transferred to another entity after it has been assigned.
 
@@ -92,7 +92,7 @@ Click _**Create transaction**_\*\* \*\* to create the transaction that creates a
 
 ![](https://lh3.googleusercontent.com/RVlpE5QIyKb2gvvr5KQOf8ukZa0k5wczXfgOnnHfcvXI2JnBUtLX4KjKob\_EWMF9k9y1NjB1yzNcYrJLm2ETRezy7v9DDWucQNQ18OEQT\_8dBjMvSoZsymVIGK\_BJv\_8Cw1Mk88L)
 
-### \*\*Vote "Yes" to approve the "Assign Tokens" vote \*\*
+### \*\*Vote "Yes" to approve the "Assign Tokens" vote \*\*<mark style="color:blue;">\*\*\*\*</mark>
 
 Go to the Voting app, click on the _**Mint tokens**_ proposal you just created, and vote "Yes" to approve minting and assigning the token.
 
