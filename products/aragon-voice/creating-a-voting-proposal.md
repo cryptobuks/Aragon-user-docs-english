@@ -5,7 +5,7 @@
 To create a proposal go [here](https://voice.aragon.org) and connect your web3 wallet.
 
 {% hint style="info" %}
-If you need help with this task go [here](https://github.com/78carla/tech\_1/blob/main/products/aragon-voice/broken-reference/README.md).
+If you need help with this task go [here](../set-up-metamask/).
 {% endhint %}
 
 Please select Ethereum Mainnet in your wallet.
