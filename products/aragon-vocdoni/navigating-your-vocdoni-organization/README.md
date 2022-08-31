@@ -29,7 +29,7 @@ On the dashboard page, you can create a new vote using the \_**Creating a voting
 {% hint style="danger" %}
 If you haven't made a backup of your account you will see an alert message shown in an orange box (see the example above).
 
-**=> In this case, please, proceed with the backup of your account as described in the** [**dedicated paragraph**](./#create-account-backup) **below.**
+**=> In this case, please, proceed with the backup of your account as described in the** **dedicated paragraph** **below.**
 {% endhint %}
 
 ### Voting box

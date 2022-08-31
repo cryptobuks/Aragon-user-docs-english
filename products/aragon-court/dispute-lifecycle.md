@@ -30,15 +30,15 @@ No action is required by guardians during this period.
 
 #### After the evidence period is over, the first adjudication round is initiated and the Summon guardians period begins.
 
-The only task required during this period is to click on the Summon guardians button on the dispute page. Anybody can execute this task and receive a DAI reward proportional to the number of guardians being drafted. The current draft reward amount is [`Draft_Fee`](https://help.aragon.org/article/48-aragon-court-faq) per guardian.
+The only task required during this period is to click on the Summon guardians button on the dispute page. Anybody can execute this task and receive a DAI reward proportional to the number of guardians being drafted. The current draft reward amount is <mark style="color:blue;">`Draft_Fee`</mark> per guardian.
 
 Your chances of being drafted as a guardian are directly proportional to your active amount of tokens.
 
 **If you get selected as a guardian,** here are a few things you need to know:
 
 * **You will receive an email notification containing information about the dispute and the next steps for you (if you subscribed to email notifications).**
-* **A portion of your active tokens will be locked until the final ruling is confirmed.** The main purpose of locking your active tokens is to incentivize consensus decisions and honest behavior. The exact locked amount is equal to 30% off the minimum active balance for each time you get drafted. The minimum active balance is currently [`Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq), therefore the amount locked would be [`Min_Active_Balance x 0.3`](https://help.aragon.org/article/48-aragon-court-faq).
-* **It's possible to get drafted multiple times for the same dispute, if there are appeal rounds.** In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have [`Min_Active_Balance x 0.3 x 2`](https://help.aragon.org/article/48-aragon-court-faq) locked and twice the normal voting weight.
+* **A portion of your active tokens will be locked until the final ruling is confirmed.** The main purpose of locking your active tokens is to incentivize consensus decisions and honest behavior. The exact locked amount is equal to 30% off the minimum active balance for each time you get drafted. The minimum active balance is currently <mark style="color:blue;">`Min_Active_Balance`</mark>, therefore the amount locked would be <mark style="color:blue;">`Min_Active_Balance x 0.3`</mark>.
+* **It's possible to get drafted multiple times for the same dispute, if there are appeal rounds.** In that case, the amount locked will be multiplied by the number of times you are being drafted. The voting power will also be proportional to this number. For example, a guardian getting drafted twice for a dispute would have <mark style="color:blue;">`Min_Active_Balance x 0.3 x 2`</mark> locked and twice the normal voting weight.
 * **Neither your inactive tokens nor the tokens contained in your wallet will be locked, only a portion of your active tokens.**
 
 ## **Vote commit** <a href="#votecommit" id="votecommit"></a>
@@ -79,7 +79,7 @@ To keep the votes secret until the end of the voting period, your vote will be c
 For security purposes, it's important that you save this code somewhere safe (such as inside a password manager) and do not share it with anyone.
 {% endhint %}
 
-![](https://lh5.googleusercontent.com/JhaA4CDhK5qReb0Ff4cnIfh2clMwZ9VKUtADmmNa1LOELZuuvRuYyTdAL9cH7VJ0cxUR0AYhiI61o1a34iDHD-HUnny79LmapcPZ\_rMibaeA6KC8joNrOks06p3ah9GUQX6eJsOm)**Enable Court Auto-reveal service** is a convenient option available if you want your vote to be revealed automatically during the next phase. If you select this option, you are relying on Aragon, which hosts the Aragon Court Dashboard at [court.aragon.org](https://court.aragon.org), to cast your reveal transaction on time. Otherwise, manual action will be necessary during the Reveal period.
+**Enable Court Auto-reveal service** is a convenient option available if you want your vote to be revealed automatically during the next phase. If you select this option, you are relying on Aragon, which hosts the Aragon Court Dashboard at [court.aragon.org](https://court.aragon.org), to cast your reveal transaction on time. Otherwise, manual action will be necessary during the Reveal period.
 
 Click the **Commit your vote** button to send the transaction.
 
@@ -103,12 +103,12 @@ If another guardian leaks their one-time-use code then you can penalize them usi
 {% hint style="info" %}
 **An example of the completed form looks like this:**
 
-![](https://lh4.googleusercontent.com/0bXNwjWBg6\_T1uE3IRILMLh5DHw6\_tdl0Cz5rRXbMoWkMfPImJPR01rnFNDE-BmoAVB\_ga8r-OpBa-lhL2Vl36hBYQz5qGCi2mpdhDlETbTK9fOUMN2N-KVmM0-WN-8JlttMj7gg)Step 3. Click the "write" button, then sign and send the transaction. Once the transaction is confirmed, the guardian who leaked their one-time-use code will be penalized.
+Step 3. Click the "write" button, then sign and send the transaction. Once the transaction is confirmed, the guardian who leaked their one-time-use code will be penalized.
 {% endhint %}
 
 ## **Vote reveal** <a href="#votereveal" id="votereveal"></a>
 
-![](https://lh5.googleusercontent.com/AeieERJPiNM5QdyXbkkG7xiRCtf-n7x9VAj7N2Ekp0IqC5XLPLGhcKbK3Q0JglwpeRfh\_SgXx1V-fmjV0f2zbhh55\_prfF4UZvKJ6G7LWy--yR25vEFdY2lUAGd5Q8kjJC9RewTG)After the voting period has ended, guardians will have **two days** to reveal their vote.
+After the voting period has ended, guardians will have **two days** to reveal their vote.
 
 If you enabled the **Auto-reveal service**, there is no action required from you at this stage. Otherwise, simply click on the **Reveal your vote** button. Your one-time code shouldn't be necessary unless a problem occurred within the court, but if it is needed, you'll be prompted to retrieve it from the safe place you stored it and enter it into the guardian app.
 
@@ -161,7 +161,7 @@ The maximum number of appeal rounds is not infinite, it is currently set to **fo
 {% hint style="success" %}
 **If an appeal is still confirmed after the maximum allowed is reached.**
 
-A final round is initiated where the number of guardians equal to [`total active stake / Min_Active_Balance`](https://help.aragon.org/article/48-aragon-court-faq) is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
+A final round is initiated where the number of guardians equal to <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">`total active stake / Min_Active_Balance`</mark> is drafted, in which case all drafted guardians will be required to make up and safely store a secret passphrase to vote. The auto-reveal service is currently disabled for the final appeal round, so guardians will have to manually reveal their vote with their secret passphrase during the final reveal period.
 {% endhint %}
 
 > <mark style="color:purple;">**Do have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
