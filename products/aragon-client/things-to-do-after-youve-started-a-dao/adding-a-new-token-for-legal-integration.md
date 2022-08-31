@@ -1,7 +1,7 @@
 # Adding a new token for legal integration
 
 {% hint style="info" %}
-In this section, we show how Aragon might interact with a legal entity such as a Series Delaware LLC. In our example the Aragon DAO leverages Gnosis Safe and EVM-CRISPR as well, to show how an existing DAO might gain access to the legal entities.
+In this section, we show **how Aragon might interact with a legal entity such as a Series Delaware LLC**. In our example the Aragon DAO leverages Gnosis Safe and EVM-CRISPR as well, to show how an existing DAO might gain access to the legal entities.
 {% endhint %}
 
 ## Introduction

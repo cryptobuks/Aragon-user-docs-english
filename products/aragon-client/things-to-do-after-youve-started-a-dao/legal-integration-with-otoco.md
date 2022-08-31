@@ -1,8 +1,11 @@
-# Legal integration with Otoco
+---
+description: >-
+  Because sometimes you have to live in the real world. This is a tutorial for
+  adding a standard Delaware Series LLC to an existing Aragon Client DAO,
+  however should work with any DAO with ERC20 Tokens.
+---
 
-{% hint style="info" %}
-Because sometimes you have to live in the real world. This is a tutorial for **adding a standard Delaware Series LLC to an existing Aragon Client DAO**, however should work with any DAO with ERC20 Tokens.
-{% endhint %}
+# Legal integration with Otoco
 
 So you started a new Aragon DAO called Awesome Music, a decentralized Music Label. All is working well collaborating with people online in different countries, but soon you find out that a musician of Classical Music insists on having a legal contract with your DAO Label instead of a token agreement. That needs the DAO to be registered in the legacy world as an LLC. But how on earth do I do that? Let us show you how!
 
