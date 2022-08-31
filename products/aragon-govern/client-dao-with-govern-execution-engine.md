@@ -22,7 +22,7 @@ Aragon Govern is in Beta and the UI might have changed from the time of this art
 Please, make sure both DAOs are on the same network.
 {% endhint %}
 
-3\. Grant the Govern Executor address desired permissions within the Aragon Client DAO. Follow [this](https://github.com/78carla/tech\_1/blob/main/products/aragon-govern/broken-reference/README.md) article to learn how to do this. You should grant the permissions you want the Aragon Govern DAO to be able to schedule execution for.
+3\. Grant the Govern Executor address desired permissions within the Aragon Client DAO. Follow [this](../aragon-client/explore-template-dao/system-setting/permissions-setting.md) article to learn how to do this. You should grant the permissions you want the Aragon Govern DAO to be able to schedule execution for.
 
 If you want to replace the governance mechanism, then grant the Govern Executor the same set of permissions that the Voting App currently has and then revoke the Voting App's permissions. We would not recommend changing the Permission Manager from the Voting App as it will make setting up permissions complicated in the future.
 
