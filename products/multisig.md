@@ -18,7 +18,7 @@ Here we are going to use [Gnosis Safe MultiSig](https://gnosis-safe.io), however
 Aragon Client DAOs have access to a control system, where each action is protected by a set of permission records. Only someone with specific permissions can act. That is why we need to assign the MultiSig wallet to a range of permissions that correspond with the desired actions. You can read more about it [here](aragon-client/explore-template-dao/system-setting/permissions-setting.md).
 {% endhint %}
 
-1\. Follow the steps below to assign permission to a MultiSig or have a look at this [article](https://app.gitbook.com/s/zhQIP88M8McmSaEGSymT/users/products/aragon-client/explore-template-dao/system-setting/permissions-setting)
+1\. Follow the steps below to assign permission to a MultiSig.
 
 2\. Open your DAO portal and select the _**permissions**_ tab on the left. Here you can examine the permissions you have within your DAO.
 
