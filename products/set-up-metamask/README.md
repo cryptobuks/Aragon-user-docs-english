@@ -41,7 +41,7 @@ Let's start to configure and understand the main futures of the metamask wallet 
 
 * Visit the [Metamask homepage](https://metamask.io) and download the browser extension. Once it is downloaded, you should be automatically directed to a welcome page.
 
-![Metamask welcome PageFollow the instructions carefully.](https://hack.aragon.org/docs/assets/metamask-guide/m-0.png)
+<figure><img src="../../.gitbook/assets/m-0.png" alt=""><figcaption><p>Metamask welcome PageFollow the instructions carefully.</p></figcaption></figure>
 
 * Set up your Metamask account accordingly.
 
