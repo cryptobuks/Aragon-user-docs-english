@@ -73,7 +73,7 @@ In the top right you should see a dropdown menu with _**Main Ethereum Network**_
 
 #### If you click on it, a selection of other networks will be shown.
 
-![Drop down menu for selecting the network.](https://hack.aragon.org/docs/assets/metamask-guide/m-2.png)
+<figure><img src="../../.gitbook/assets/m-2.png" alt=""><figcaption><p>Drop down menu for selecting the network.</p></figcaption></figure>
 
 ## Why should you select other networks?
 
