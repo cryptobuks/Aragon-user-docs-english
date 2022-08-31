@@ -8,7 +8,7 @@ In this section, you will learn how to create a DAO using Aragon Govern.
 
 Creating a Govern DAO is a quick and easy process.
 
-Go to [https://govern.aragon.org/#/create-dao](https://govern.aragon.org/#/create-dao), choose the network and connect your web3 wallet (if you need help go [here](https://github.com/78carla/tech\_1/blob/main/products/aragon-govern/broken-reference/README.md)) and fill out all the relevant information regarding your DAO.
+Go to [https://govern.aragon.org/#/create-dao](https://govern.aragon.org/#/create-dao), choose the network and connect your web3 wallet (if you need help go [here](../set-up-metamask/)) and fill out all the relevant information regarding your DAO.
 
 ## Basic Information
 
