@@ -25,4 +25,4 @@ Please follow these steps:
 
 * Proceed with the DAO creation
 
-Note: if the issue persists try to use another browser. The suggested browsers are [Brave](https://brave.com), [Chrome](https://www.google.com/chrome/)/[Chromium](https://www.chromium.org/getting-involved/download-chromium), [Firefox](https://www.mozilla.org/firefox/) desktop web browsers. If you are using a mobile phone, try with a pc/ laptop.
+Note: if the issue persists try to use another browser. The suggested browsers are [Brave](https://brave.com/), [Chrome](https://www.google.com/chrome/)/[Chromium](https://www.chromium.org/getting-involved/download-chromium), [Firefox](https://www.mozilla.org/) desktop web browsers. If you are using a mobile phone, try with a pc/ laptop.
