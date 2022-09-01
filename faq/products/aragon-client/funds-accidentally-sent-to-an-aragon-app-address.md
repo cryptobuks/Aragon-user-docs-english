@@ -6,7 +6,7 @@ If you accidentally sent tokens to the address of an App installed in an Aragon 
 2. [Using **aragonCLI** from the command line](funds-accidentally-sent-to-an-aragon-app-address.md#undefined)
 
 {% hint style="danger" %}
-We strongly recommend using the _Console option_ since it much easier
+We strongly recommend using the _Console option_ since it is much easier
 {% endhint %}
 
 
@@ -25,7 +25,7 @@ Replace `<your-dao-name>` with the name of your DAO in the above URL
 
 You should see something like the below:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -33,7 +33,7 @@ Next select `Exec` which is a command used to perform transactions in DAOs.
 
 Here you select the App to which the funds were accidentally sent. In this example, funds were accidentally sent to the Finance App so we select `Finance`:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -51,13 +51,13 @@ exec/0xa4bb9c789cccdce9565ee5a6d066dccef05c6a42/recoverToVault(0x3255D2D022Ef80F
 
 Now click _Enter_:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Now confirm the transaction by clicking _Create transaction_:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ Now go to the Finance App in your organisation, and your funds should magically 
 
 In this example BRT tokens have been recovered from the Finance to the Vault App:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Recover your funds using aragonCLI
 
