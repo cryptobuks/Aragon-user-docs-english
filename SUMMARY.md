@@ -100,7 +100,7 @@
     * [An unexpected error has occurred](faq/products/aragon-client/an-unexpected-error-has-occurred.md)
     * [App does not appear in Firefox](faq/products/aragon-client/app-does-not-appear-in-firefox.md)
     * [Receiving funds directly to the Agent or Vault address](faq/products/aragon-client/receiving-funds-directly-to-the-agent-or-vault-address.md)
-    * [Funds accidentally sent to an Aragon app address](faq/products/aragon-client/funds-accidentally-sent-to-an-aragon-app-address.md)
+    * [How to Recover Funds accidentally sent to an Aragon App address](faq/products/aragon-client/funds-accidentally-sent-to-an-aragon-app-address.md)
     * [Depositing EURS in the Finance app](faq/products/aragon-client/depositing-eurs-in-the-finance-app.md)
     * [Which templates are available on the Ethereum Network?](faq/products/aragon-client/which-templates-are-available-on-the-ethereum-network.md)
     * [Which templates are available on the Polygon Network?](faq/products/aragon-client/which-templates-are-available-on-the-polygon-network.md)
