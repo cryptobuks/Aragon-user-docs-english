@@ -73,6 +73,8 @@ In this example BRT tokens have been recovered from the Finance to the Vault App
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+###
+
 ### Recover your funds using aragonCLI
 
 Use the following steps:
