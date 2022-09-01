@@ -1,6 +1,6 @@
 # How to Recover Funds accidentally sent to an Aragon App address
 
-If you accidentally sent tokens to the address of an App installed in an Aragon organization, you can recover the tokens and send them to the organization's Vault the organisation App which should hold your DAO funds. There are two ways to do this:
+If you accidentally sent tokens to the address of an App installed in an Aragon organization, you can recover the tokens and send them to the organization's Vault, the organisation App which should hold your DAO funds. There are two ways to do this:
 
 1. [Using the inbuilt (but hidden) **Console feature** from the DAO interface](funds-accidentally-sent-to-an-aragon-app-address.md#recover-your-funds-using-the-console-feature)
 2. [Using **aragonCLI** from the command line](funds-accidentally-sent-to-an-aragon-app-address.md#undefined)
