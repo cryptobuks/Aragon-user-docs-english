@@ -34,7 +34,7 @@ How? [Here](../set-up-metamask/getting-started-with-harmony.md) is a guide.
 
 1. Go to the [Aragon Client](https://client.aragon.org/#/) page.
 
-![](<../../.gitbook/assets/file-WwpvtTSvLt (1).png>)
+![](<../../.gitbook/assets/file-WwpvtTSvLt (1) (1).png>)
 
 1. Click _**Connect account**_ and select your wallet provider. In the example below, we have connected our Metamask account to the Harmony network. If the dialogue box says that it is connected to another network, switch your wallet to the Harmony network. The connected network is automatically derived from the network selected on the wallet
 2. Click _**Create an Organization**_ and follow [this tutorial](how-to-create-a-dao-using-aragon-client/) that will run you through the creation process.

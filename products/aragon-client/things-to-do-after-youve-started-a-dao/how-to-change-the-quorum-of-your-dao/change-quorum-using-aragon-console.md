@@ -12,13 +12,13 @@ Replace `<your-dao-name>` with the name of your DAO in the above URL
 
 You should see something like the below:
 
-![](../../../../.gitbook/assets/image%20\(42\).png)
+<figure><img src="../../../../.gitbook/assets/immagine1.png" alt=""><figcaption></figcaption></figure>
 
 Next select `Exec` which is a command used to perform transactions DAOs.
 
 You should now see the below screen. Select `Voting`, since you will create a change to the Voting App:
 
-![](../../../../.gitbook/assets/image%20\(10\).png)
+<figure><img src="../../../../.gitbook/assets/immagine2.png" alt=""><figcaption></figcaption></figure>
 
 In the source code of the Voting App on [Github](https://github.com/aragon/aragon-apps/blob/631048d54b9cc71058abb8bd7c17f6738755d950/apps/voting/contracts/Voting.sol) you can find a function to change the minimum accepted Quorum Percentage, exactly what we need:
 
@@ -46,17 +46,17 @@ The **minimum Quorum Percentage can never be higher than the required Support Pe
 
 Now add `changeMinAcceptQuorumPct(250000000000000000)` to the command in the console:
 
-![](../../../../.gitbook/assets/image%20\(57\).png)
+<figure><img src="../../../../.gitbook/assets/immagine 3.png" alt=""><figcaption></figcaption></figure>
 
 When you now press 'Enter', a transaction should come up in your Web3 Provider (Metamask for most users). Check whether the minimum Quorum Percentage matches with what you had in mind:
 
-![](../../../../.gitbook/assets/image%20\(20\).png)
+<figure><img src="../../../../.gitbook/assets/immagine4.png" alt=""><figcaption></figcaption></figure>
 
 Click 'Create transaction' and sign it with your Web3 Provider.
 
 You are almost there! But first go to the Voting app since this change has automatically generated a vote. Now you (and enough of your DAO members) need to approve the vote for it to pass:
 
-![](../../../../.gitbook/assets/image%20\(53\).png)
+<figure><img src="../../../../.gitbook/assets/immagine5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Warning**
@@ -66,7 +66,7 @@ The change will can only be **enacted** when the remaining voting time has run o
 
 When the voting time has run out click on 'Enact this vote' and sign the transaction with your Web3 Provider:
 
-![](../../../../.gitbook/assets/image%20\(17\).png)
+<figure><img src="../../../../.gitbook/assets/immagine6.png" alt=""><figcaption></figcaption></figure>
 
 Once this is done the minimum Quorum Percentage should have been adjusted to 25%. You can double check this by creating a new vote. When you open the vote, the `MINIMUM APPROVAL` should have been adjusted to `>25% needed`.
 
