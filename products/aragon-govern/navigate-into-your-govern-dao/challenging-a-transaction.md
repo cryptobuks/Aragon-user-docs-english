@@ -10,11 +10,16 @@ If you do not agree with a transaction that has been scheduled, provide a clear 
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c98a4fe0428633d2cf3fcf7/images/6113ed15b55c2b04bf6dd6a2/file-hd6ZlldfSY.png)
 
-{% hint style="warning" %}
-**IMPORTANT**
+{% hint style="danger" %}
+**VERY IMPORTANT NOTE!!!**
 
-* When you challenge a transaction, you need to add collateral to the challenge. The collateral token and amount are defined in the DAO settings.
-* When creating a dispute, you also need to pay the court fees (in DAI), which will be used to pay guardians and actors on the dispute.
+* When you challenge a transaction, **you need to add **<mark style="color:blue;">**collateral**</mark> to the challenge. The collateral token and amount are defined in the DAO settings.
+* When creating a challenge, **you also need to pay the court fees** in <mark style="color:blue;">**DAI**</mark>, which will be used to pay guardians and actors on the dispute.
+
+So for challenging a transaction you need to have both these tokens on your wallet:
+
+1. The <mark style="color:blue;">**collateral token**</mark>
+2. <mark style="color:blue;">**DAI**</mark>** ** token
 {% endhint %}
 
 > <mark style="color:purple;">**Do you have a question? Leave your comments here at our Discourse forum**</mark>** 👇**
