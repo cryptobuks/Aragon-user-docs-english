@@ -22,7 +22,7 @@ You should see a black drop down menu appear _(see image below)_.
 
 You'll be taken to a _Welcome Back_ page.
 
-<figure><img src="../../.gitbook/assets/m-5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/m-5.png" alt=""><figcaption></figcaption></figure>
 
 ### Importing the 12 words phrase will allow you to use Metamask with your wallet.
 

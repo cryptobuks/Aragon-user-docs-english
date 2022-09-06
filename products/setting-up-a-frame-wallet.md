@@ -18,7 +18,7 @@ You need a Metamask, Ledger or Trezor wallet to use Frame.
 
 Start by downloading Frame from the official website: [https://frame.sh](https://frame.sh). Afterwards, you will find Frame in your Menu bar.
 
-<figure><img src="../.gitbook/assets/frame-intro (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/frame-intro.gif" alt=""><figcaption></figcaption></figure>
 
 ## Configure your device <a href="#configure-your-device" id="configure-your-device"></a>
 
