@@ -33,7 +33,7 @@ To create such a call, you may pull out your favourite tool and use the followin
 
 For the purposes of demonstration, I'll use the [online ABI encoder provided by HashEx](https://abi.hashex.org):
 
-![Using HashEx's online ABI encoding tool](../../../.gitbook/assets/upgrade-abi-encode.png)
+<figure><img src="../../../.gitbook/assets/contract interaction 1.png" alt=""><figcaption></figcaption></figure>
 
 For the arguments, use:
 
@@ -43,7 +43,7 @@ For the arguments, use:
 
 Next, take the encoded data:
 
-![Encoded ABI data](../../../.gitbook/assets/upgrade-abi-encoded-data.png)
+<figure><img src="../../../.gitbook/assets/contract interaction 2.png" alt=""><figcaption></figcaption></figure>
 
 In the above screenshot, I've specified to only upgrade one (1) ANTv1.
 
@@ -64,7 +64,7 @@ Specify those accordingly based on the above output.
 
 If you'd prefer to use Etherscan, you may submit the above arguments directly to their [ANTv1 contract interface](https://etherscan.io/address/0x960b236a07cf122663c4303350609a66a7b288c0#writeContract):
 
-![approveAndCall() with Etherscan](../../../.gitbook/assets/upgrade-etherscan.png)
+<figure><img src="../../../.gitbook/assets/contract interaction 3.png" alt=""><figcaption></figcaption></figure>
 
 ### Separate token allowances
 
