@@ -42,7 +42,7 @@ The intermediary wallet holding proceeds from the token sale until it was finali
 
 Address: [`0xD39902f046B5885D70e9E66594b65f84D4d1c952`](https://etherscan.io/address/0xd39902f046b5885d70e9e66594b65f84d4d1c952)
 
-The placeholder controller for ANTv1, now replaced for `ANTController` by the [Community Multisig](deployments.md#community-multisig).
+The placeholder controller for ANTv1, now replaced for `ANTController` by the [Community Multisig](historical-deployments.md#community-multisig).
 
 ### Aragon Association ("Dev") Multisig
 
