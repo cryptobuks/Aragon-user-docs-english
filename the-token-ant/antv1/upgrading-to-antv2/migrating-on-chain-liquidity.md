@@ -23,7 +23,7 @@ First, withdraw any ANTv1 liquidity you've provided. For example, from the [ANTv
 
 <figure><img src="../../../.gitbook/assets/migrating 2.png" alt=""><figcaption></figcaption></figure>
 
-Then, use [any of the upgrade paths](https://github.com/78carla/test\_aragon-network-token/blob/master/docs/antv1/upgrade/README.md) to upgrade the ANTv1 in your wallet to ANTv2.
+Then, use [any of the upgrade paths](./) to upgrade the ANTv1 in your wallet to ANTv2.
 
 Finally, you can now add liquidity to the equivalent (or new) ANTv2 pools on Balancer. You can use [Balancer's ANTv2 pools page](https://pools.balancer.exchange/#/?token=0xa117000000f279d81a1d3cc75430faa017fa5a2e\&filter=1) to find ANTv2's liquidity pools.
 
