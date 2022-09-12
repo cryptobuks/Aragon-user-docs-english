@@ -2,8 +2,8 @@
 
 ANTv1's on-chain liquidity has historically been concentrated across two platforms:
 
-* [Uniswap](upgrade-migrating-liquidity.md#uniswap)
-* [Balancer](upgrade-migrating-liquidity.md#balancer)
+* Uniswap
+* Balancer
 
 ## Uniswap
 
