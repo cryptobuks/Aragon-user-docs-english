@@ -70,7 +70,7 @@ All the funds collected will be instantly sent to the Aragon Dev multisig for se
 
 Disclaimer: Please do not send directly from exchanges.
 
-![](../../.gitbook/assets/ant\_buy.png)
+<figure><img src="../../.gitbook/assets/initial sale 1.png" alt=""><figcaption></figcaption></figure>
 
 #### 6. `sale.revealCap()`
 
@@ -106,12 +106,10 @@ The ANPlaceholder will transfer its Token Controller power of ANTv1 to the deplo
 
 The sale contract is now selfdestructed in favor of the Aragon Network, though it shouldn't have any ether.
 
-![](../../.gitbook/assets/an\_deploy.png)
+<figure><img src="../../.gitbook/assets/initial sale 2.png" alt=""><figcaption></figcaption></figure>
 
 ### Token operations
 
 #### `transfer()` – 95,121 gas
 
 #### `grantVestedTokens()` – 163,094 gas
-
-
