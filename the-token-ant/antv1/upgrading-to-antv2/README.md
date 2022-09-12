@@ -6,15 +6,15 @@ The original ANT ([`0x960b...88C0`](https://etherscan.io/address/0x960b236A07cf1
 
 ## Upgrade paths <a href="#upgrade-paths" id="upgrade-paths"></a>
 
-The ANTv2 upgrade **does not** end at any date. As long as you hold some ANTv1, you will be able to upgrade it 1:1 to an equivalent ANTv2 balance.Depending on where your ANTv1 is held, you may have different options for upgrading to ANTv2.In general, if you are able to use the [Upgrade Portal](https://upgrade.aragon.org/), it is recommended as the easiest method of upgrading. A [user guide](upgrade-portal.md) for the Upgrade Portal is available.If you prefer raw contract interactions, need to encode one due to a smart wallet, or want to get into the details, you may find the [contract interaction page](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/KZrhW99FwNQWgN8blW2M/the-token-ant/antv1/upgrade/upgrade-contract-interaction) helpful.
+The ANTv2 upgrade **does not** end at any date. As long as you hold some ANTv1, you will be able to upgrade it 1:1 to an equivalent ANTv2 balance.Depending on where your ANTv1 is held, you may have different options for upgrading to ANTv2.In general, if you are able to use the [Upgrade Portal](https://upgrade.aragon.org/), it is recommended as the easiest method of upgrading. A [user guide](upgrade-portal.md) for the Upgrade Portal is available.If you prefer raw contract interactions, need to encode one due to a smart wallet, or want to get into the details, you may find the [contract interaction page](contract-interaction.md) helpful.
 
 ### Wallet <a href="#wallet" id="wallet"></a>
 
-ANTv1 held directly in a non-contract wallet that can connect to dapps (e.g. web wallets, some mobile wallets, most hardware wallets through browser extensions) should find the Upgrade Portal most convenient.If you'd prefer to send a raw transaction or use the Etherscan interface, please see the [contract interaction page](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/KZrhW99FwNQWgN8blW2M/the-token-ant/antv1/upgrade/upgrade-contract-interaction).Your wallet may not immediately detect your upgraded ANTv2 balance. In this case, you should be able to find documentation on how to add custom tokens to your wallet's interface. You will want to use `0xa117000000f279D81A1D3cc75430fAA017FA5A2e` as the token address.For example, if you use Metamask, you can follow [this guide to add custom tokens](https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-View-See-Your-Tokens-in-Metamask).
+ANTv1 held directly in a non-contract wallet that can connect to dapps (e.g. web wallets, some mobile wallets, most hardware wallets through browser extensions) should find the Upgrade Portal most convenient.If you'd prefer to send a raw transaction or use the Etherscan interface, please see the c[ontract interaction page.](contract-interaction.md)Your wallet may not immediately detect your upgraded ANTv2 balance. In this case, you should be able to find documentation on how to add custom tokens to your wallet's interface. You will want to use `0xa117000000f279D81A1D3cc75430fAA017FA5A2e` as the token address.For example, if you use Metamask, you can follow [this guide to add custom tokens](https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-View-See-Your-Tokens-in-Metamask).
 
 ### "Smart" / contract wallet <a href="#smart-contract-wallet" id="smart-contract-wallet"></a>
 
-Depending on the type of contract wallet being used, you may or may not be able to use the Upgrade Portal directly.Assuming your contract wallet can send outward transactions (i.e. interact with other Ethereum smart contracts like Uniswap through arbitrary calls), you will be able to upgrade your ANTv1 without transferring it out of this wallet.If you cannot connect this wallet to dapps, for example some multisig wallets, you may be forced to send a raw transaction. Please see the [contract interaction page](https://app.gitbook.com/o/3h8kxj8geKVXgyMnGbYT/s/KZrhW99FwNQWgN8blW2M/the-token-ant/antv1/upgrade/upgrade-contract-interaction).
+Depending on the type of contract wallet being used, you may or may not be able to use the Upgrade Portal directly.Assuming your contract wallet can send outward transactions (i.e. interact with other Ethereum smart contracts like Uniswap through arbitrary calls), you will be able to upgrade your ANTv1 without transferring it out of this wallet.If you cannot connect this wallet to dapps, for example some multisig wallets, you may be forced to send a raw transaction. Please see the [contract interaction page.](contract-interaction.md)
 
 ### Aragon DAO <a href="#aragon-dao" id="aragon-dao"></a>
 
@@ -22,7 +22,7 @@ The available upgrade paths for ANTv1 held in Aragon DAOs depends on whether the
 
 **If the DAO has the Agent app installed**, you will be able to directly upgrade the ANTv1 through an Agent transaction. You can accomplish by connecting [Frame](http://frame.sh/) to your DAO and using the Upgrade Portal, using the in-app console with a raw call, or aragonCLI with a raw call.
 
-For those latter options, please understand the [contract interaction page](broken-reference), and use the `act` command with the appropriate arguments for an `approveAndCall()` interaction.
+For those latter options, please understand the [contract interaction page](contract-interaction.md), and use the `act` command with the appropriate arguments for an `approveAndCall()` interaction.
 
 **If the DAO does not have the Agent app installed**, your options for upgrading the ANTv1 become limited to:
 
@@ -33,7 +33,7 @@ For those latter options, please understand the [contract interaction page](brok
 
 No automatic migration of on-chain liquidity is currently provided. If you have provided ANT as on-chain liquidity, please withdraw your ANT and migrate through the other options listed here.
 
-You may find the information about [migrating on-chain liquidity](broken-reference) to be useful, especially if you are interested in re-providing ANTv2 as on-chain liquidity.
+You may find the information about [migrating on-chain liquidity ](migrating-on-chain-liquidity.md)to be useful, especially if you are interested in re-providing ANTv2 as on-chain liquidity.
 
 ### Off-chain ("centralized") exchange
 
