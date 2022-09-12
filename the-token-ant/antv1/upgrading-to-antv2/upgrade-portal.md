@@ -38,7 +38,7 @@ Note that the ANTv1 to ANTv2 upgrade is one-way. The ANTv1 you choose to upgrade
 
 I'm going to go ahead and migrate all of my ANTv1 to ANTv2:
 
-<figure><img src="../../../.gitbook/assets/upgrade portal 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/upgrade portal 6 (1).png" alt=""><figcaption></figcaption></figure>
 
 Continuing further, you'll now be prompted to sign the transactions that will facilitate the upgrade (may depend on your wallet):
 

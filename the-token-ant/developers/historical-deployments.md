@@ -50,10 +50,8 @@ Address: [`0xcafE1A77e84698c83CA8931F54A755176eF75f2C`](https://etherscan.io/add
 
 Final recipient of the initial token sale proceeds. [More information](https://wiki.aragon.org/association/multisigs/association/).
 
-### Community Multisig
+### Community Multisig <a href="#community-multisig" id="community-multisig"></a>
 
 Address: [`0xbEEFbEeF03c7E5a1C29E0Aa675f8E16AEe0A5FAd`](https://etherscan.io/address/0xbeefbeef03c7e5a1c29e0aa675f8e16aee0a5fad)
 
 Controller of replacing the `ANPlaceholder` contract. [More information](https://wiki.aragon.org/association/multisigs/community/).
-
-
