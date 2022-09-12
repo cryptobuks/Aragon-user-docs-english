@@ -12,11 +12,11 @@ Aragon Network Token (ticker: [ANT](https://coinmarketcap.com/currencies/aragon/
 👉 ANT has [upgraded to ANTv2](https://aragon.org/blog/antv2). Visit the [Upgrade Portal](https://upgrade.aragon.org/#/) to upgrade your ANT!
 {% endhint %}
 
-* The [**About**](broken-reference) section contains general information about ANT, its uses, and the original token sale
-* The [**Developers**](broken-reference) section contains useful information for developers wishing to programmatically interact with ANT
-* The [**ANTv1**](broken-reference) section contains technical materials related to ANTv1 and ANT's original token sale
-  * The [**Upgrade**](broken-reference) section contains user guides and documentation for upgrading ANTv1 to ANTv2
-* The [**Security**](broken-reference) section contains information relevant for security specialists
+* The [**About**](about-the-token/) section contains general information about ANT, its uses, and the original token sale
+* The [**Developers**](developers/) section contains useful information for developers wishing to programmatically interact with ANT
+* The [**ANTv1** ](antv1/)section contains technical materials related to ANTv1 and ANT's original token sale
+  * The [**Upgrade**](antv1/upgrading-to-antv2/) section contains user guides and documentation for upgrading ANTv1 to ANTv2
+* The [**Security**](security/) section contains information relevant for security specialists
 
 If you have any questions or just want to say hi, come join the community on [Discord](https://discord.com/invite/aragon)!
 
