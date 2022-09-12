@@ -70,7 +70,7 @@ exec voting changeMinAcceptQuorumPct 250000000000000000
 
 The commands are ready! Copy/ paste them in the terminal and click the 'Forward ...' button:
 
-<figure><img src="../../../../.gitbook/assets/crisper3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/crisper3.png" alt=""><figcaption></figcaption></figure>
 
 Sign the transaction from your Web3 Provider and it should now execute successfully.
 
@@ -88,7 +88,7 @@ We are almost ready but first open your DAO in the web browser. The url should b
 
 Next go to the Voting app since this change has automatically generated a vote. Now you (and enough of your DAO members) need to approve the vote for it to pass:
 
-<figure><img src="../../../../.gitbook/assets/crisper4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Warning**
@@ -98,7 +98,7 @@ The change will can only be **enacted** when the remaining voting time has run o
 
 When the voting time has run out click on 'Enact this vote' and sign the transaction with your Web3 Provider:
 
-<figure><img src="../../../../.gitbook/assets/crisper5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine6.png" alt=""><figcaption></figcaption></figure>
 
 
 

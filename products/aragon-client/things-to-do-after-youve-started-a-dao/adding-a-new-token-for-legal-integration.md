@@ -55,8 +55,8 @@ Now over to [Gnosis](https://gnosis-safe.io) where we are going to connect the d
 
 The main steps are shown in the images below.&#x20;
 
-![Create a vault in gnosis](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.04.21 PM.png>) ![Load the Otoco App](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.04.31 PM.png>) ![Name your cool company & choose between Delaware, UNA, and Wyoming DAOs](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.05.46 PM.png>) ![Choose your flavor and mint!
-](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.05.58 PM (1).png>)
+![Create a vault in gnosis](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.04.21 PM.png>) ![Load the Otoco App](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.04.31 PM.png>) ![Name your cool company & choose between Delaware, UNA, and Wyoming DAOs](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.05.46 PM (1).png>) ![Choose your flavor and mint!
+](<../../../.gitbook/assets/Screen Shot 2022-06-01 at 8.05.58 PM.png>)
 
 If you see a message like that "your entity smart contract is not a wallet", go on the "_Asset wallet_" page and add an owner (a _Wallet address_ or a _Gnosis Safe Address)_.
 

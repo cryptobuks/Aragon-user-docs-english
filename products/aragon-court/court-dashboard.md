@@ -10,7 +10,7 @@ The Aragon Court Dashboard is the central app where all dispute-related tools ar
 
 The following guide presents an overview of the various sections of the Dashboard.
 
-![](<../../.gitbook/assets/Screenshot 2022-02-07 at 11.19.38 (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-02-07 at 11.19.38.png>)
 
 ## **Connecting to the Dashboard**
 

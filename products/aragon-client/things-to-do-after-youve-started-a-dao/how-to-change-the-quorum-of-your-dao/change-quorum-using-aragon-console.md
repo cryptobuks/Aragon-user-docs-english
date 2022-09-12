@@ -56,7 +56,7 @@ Click 'Create transaction' and sign it with your Web3 Provider.
 
 You are almost there! But first go to the Voting app since this change has automatically generated a vote. Now you (and enough of your DAO members) need to approve the vote for it to pass:
 
-<figure><img src="../../../../.gitbook/assets/immagine5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/crisper4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Warning**
@@ -66,7 +66,7 @@ The change will can only be **enacted** when the remaining voting time has run o
 
 When the voting time has run out click on 'Enact this vote' and sign the transaction with your Web3 Provider:
 
-<figure><img src="../../../../.gitbook/assets/immagine6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/crisper5.png" alt=""><figcaption></figcaption></figure>
 
 Once this is done the minimum Quorum Percentage should have been adjusted to 25%. You can double check this by creating a new vote. When you open the vote, the `MINIMUM APPROVAL` should have been adjusted to `>25% needed`.
 
