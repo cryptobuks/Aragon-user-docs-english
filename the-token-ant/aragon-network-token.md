@@ -6,7 +6,7 @@
 
 Welcome to Aragon Network Token's documentation.
 
-Aragon Network Token (ticker: [ANT](https://coinmarketcap.com/currencies/aragon/)) is the native token of the [Aragon Network](https://aragon.network/). ANT is primarily used for the governance of the Aragon Network, although additional uses have been proposed.
+Aragon Network Token (ticker: [ANT](https://coinmarketcap.com/currencies/aragon/)) is the native token of the [Aragon Network](https://aragon.network/). ANT is primarily used for the governance of the Aragon Network.
 
 {% hint style="info" %}
 👉 ANT has [upgraded to ANTv2](https://blog.aragon.org/antv2/). Visit the [Upgrade Portal](https://upgrade.aragon.org/#/) to upgrade your ANT!

@@ -2,11 +2,11 @@
 
 [**ANT is upgrading to ANTv2**](https://aragon.org/blog/antv2) **🦅 !**
 
-The original ANT ([`0x960b...88C0`](https://etherscan.io/address/0x960b236A07cf122663c4303350609A66A7B288C0)), now known affectionately as "ANTv1" (or sometimes as "ANT (old)") has been deprecated in favour of ANTv2 ([`0xa117...5A2e`](https://etherscan.io/address/0xa117000000f279d81a1d3cc75430faa017fa5a2e), now "ANT"). Future governance decisions related to the Aragon Network will use ANTv2.If you directly hold ANT, the easiest method of upgrading your ANTv1 is to use the [Upgrade Portal](https://upgrade.aragon.org/).
+The original ANT ([`0x960b...88C0`](https://etherscan.io/address/0x960b236A07cf122663c4303350609A66A7B288C0)), now known affectionately as "ANTv1" (or sometimes as "ANT (old)") has been deprecated in favour of ANTv2 ([`0xa117...5A2e`](https://etherscan.io/address/0xa117000000f279d81a1d3cc75430faa017fa5a2e), now "ANT"). Future governance decisions related to the Aragon Network will use ANTv2. If you directly hold ANT, the easiest method of upgrading your ANTv1 is to use the [Upgrade Portal](https://upgrade.aragon.org/).
 
 ## Upgrade paths <a href="#upgrade-paths" id="upgrade-paths"></a>
 
-The ANTv2 upgrade **does not** end at any date. As long as you hold some ANTv1, you will be able to upgrade it 1:1 to an equivalent ANTv2 balance. Depending on where your ANTv1 is held, you may have different options for upgrading to ANTv2. In general, if you are able to use the [Upgrade Portal](https://upgrade.aragon.org/), it is recommended as the easiest method of upgrading. A [user guide](upgrade-portal/) for the Upgrade Portal is available.If you prefer raw contract interactions, need to encode one due to a smart wallet, or want to get into the details, you may find the [contract interaction page](contract-interaction.md) helpful.
+The ANTv2 upgrade **does not** have an end date. As long as you hold some ANTv1, you will be able to upgrade it 1:1 to an equivalent ANTv2 balance. Depending on where your ANTv1 is held, you may have different options for upgrading to ANTv2. In general, if you are able to use the [Upgrade Portal](https://upgrade.aragon.org/), it is recommended as the easiest method of upgrading. A [user guide](upgrade-portal/) for the Upgrade Portal is available.If you prefer raw contract interactions, need to encode one due to a smart wallet, or want to get into the details, you may find the [contract interaction page](contract-interaction.md) helpful.
 
 ### Wallet <a href="#wallet" id="wallet"></a>
 
@@ -14,7 +14,7 @@ ANTv1 held directly in a non-contract wallet that can connect to dapps (e.g. web
 
 ### "Smart" / contract wallet <a href="#smart-contract-wallet" id="smart-contract-wallet"></a>
 
-Depending on the type of contract wallet being used, you may or may not be able to use the Upgrade Portal directly.Assuming your contract wallet can send outward transactions (i.e. interact with other Ethereum smart contracts like Uniswap through arbitrary calls), you will be able to upgrade your ANTv1 without transferring it out of this wallet.If you cannot connect this wallet to dapps, for example some multisig wallets, you may be forced to send a raw transaction. Please see the [contract interaction page.](contract-interaction.md)
+Depending on the type of contract wallet being used, you may or may not be able to use the Upgrade Portal directly. Assuming your contract wallet can send outward transactions (i.e. interact with other Ethereum smart contracts like Uniswap through arbitrary calls), you will be able to upgrade your ANTv1 without transferring it out of this wallet. If you cannot connect this wallet to dapps, for example some multisig wallets, you may be forced to send a raw transaction. Please see the [contract interaction page.](contract-interaction.md)
 
 ### Aragon DAO <a href="#aragon-dao" id="aragon-dao"></a>
 

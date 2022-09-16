@@ -1,12 +1,12 @@
 # Historical token sale information
 
-ANT was initially created and distributed as a result of a [public token sale](https://aragon.org/blog/announcing-the-aragon-network-token-sale-fe83fe36902c) that took place on [May 17, 2017](https://aragon.org/blog/final-token-sale-recap-1ac64ab7cfcd) - starting at [Ethereum block 3,723,000](https://etherscan.io/block/3723000) to be exact. Less than 100 blocks later, 275,000 ETH worth of ANT were sold. Added together with ANT sold in the pre-sale, ANT granted to the Aragon Institution (now the Aragon Association), and ANT granted to founders and early contributors, the total initial supply of ANT after the token sale is 39,609,523.80952380954 ANT.
+ANT was initially created and distributed as a result of a [public token sale](https://blog.aragon.org/announcing-the-aragon-network-token-sale-fe83fe36902c) that took place on [May 17, 2017](https://blog.aragon.org/final-token-sale-recap-1ac64ab7cfcd) - starting at [Ethereum block 3,723,000](https://etherscan.io/block/3723000) to be exact. Less than 100 blocks later, 275,000 ETH worth of ANT were sold. Added together with ANT sold in the pre-sale, ANT granted to the Aragon Institution (now the Aragon Association), and ANT granted to founders and early contributors, the total initial supply of ANT after the token sale is 39,609,523.80952380954 ANT.
 
 Related information:
 
-* [Aragon Network token sale terms](https://aragon.org/blog/aragon-network-token-sale-terms-8998f63a3429)
-* [Pre-sale transparency report](https://aragon.org/blog/pre-sale-transparency-report-333e310304c)
-* [The Aragon token sale: the numbers](https://aragon.org/blog/the-aragon-token-sale-the-numbers-12d03c8b97d3)
+* [Aragon Network token sale terms](https://blog.aragon.org/aragon-network-token-sale-terms-8998f63a3429)
+* [Pre-sale transparency report](https://blog.aragon.org/pre-sale-transparency-report-333e310304c/)
+* [The Aragon token sale: the numbers](https://blog.aragon.org/the-aragon-token-sale-the-numbers-12d03c8b97d3/)
 
 ## Initial supply breakdown
 
