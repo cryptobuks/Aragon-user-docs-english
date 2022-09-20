@@ -10,7 +10,7 @@ The first use of ANT is as a Sybil-resistant mechanism for governance.
 
 Current community polls backed by ANT can be found on the Aragon Project's Snapshot Space. Further uses of ANT are being researched and will be proposed following the launch of the Aragon Network, with ANT embedded as its governance token.
 
-In the past, ANT was used in the [Aragon Governance Proposal (AGP) process](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md#aragon-network-votes), [first approved by ANT holders](https://aragon.org/blog/final-results-from-the-agp-1-vote) on November 17, 2018. In this construction, one ANT was equal to one vote, allowing anyone to vote on AGPs--even while remaining pseudonymous, by acquiring and holding ANT at the time of a vote. In preparation for the Aragon Network's launch, ANT holders voted to [sunset the AGP process](https://aragon.org/blog/final-results-from-aragon-network-vote-6) on March 13, 2020.
+In the past, ANT was used in the [Aragon Governance Proposal (AGP) process](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md#aragon-network-votes), [first approved by ANT holders](https://blog.aragon.org/final-results-from-the-agp-1-vote/) on November 17, 2018. In this construction, one ANT was equal to one vote, allowing anyone to vote on AGPs--even while remaining pseudonymous, by acquiring and holding ANT at the time of a vote. In preparation for the Aragon Network's launch, ANT holders voted to [sunset the AGP process](https://blog.aragon.org/final-results-from-aragon-network-vote-6) on March 13, 2020.
 
 ### Further issuance
 
