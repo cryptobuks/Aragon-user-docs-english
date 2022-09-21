@@ -1,8 +1,10 @@
 # Setting up a Metamask Wallet
 
 {% hint style="info" %}
-In this section, you will learn how to set up a Metamask wallet and how to configure it on different blockchains.
+In this section, you will learn **how to set up a Metamask wallet** and how to configure it on different blockchains. You can either watch the **Video** or you can read the **Text** below the Video.
 {% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=ILD0X32TmFg" %}
 
 {% hint style="success" %}
 **We recommend using** [**Metamask**](https://metamask.io) **as your Web3 wallet.**
