@@ -1,8 +1,12 @@
-# Historical token sale information
+# Historical token sale
 
-ANT was initially created and distributed as a result of a [public token sale](https://blog.aragon.org/announcing-the-aragon-network-token-sale-fe83fe36902c) that took place on [May 17, 2017](https://blog.aragon.org/final-token-sale-recap-1ac64ab7cfcd) - starting at [Ethereum block 3,723,000](https://etherscan.io/block/3723000) to be exact. Less than 100 blocks later, 275,000 ETH worth of ANT were sold. Added together with ANT sold in the pre-sale, ANT granted to the Aragon Institution (now the Aragon Association), and ANT granted to founders and early contributors, the total initial supply of ANT after the token sale is 39,609,523.80952380954 ANT.
+## The public token sale
 
-Related information:
+ANT was initially created and distributed as a result of a [public token sale](https://blog.aragon.org/announcing-the-aragon-network-token-sale-fe83fe36902c) that took place on [May 17, 2017](https://blog.aragon.org/final-token-sale-recap-1ac64ab7cfcd) - starting at [**Ethereum block 3,723,000**](https://etherscan.io/block/3723000) to be exact. Less than 100 blocks later, 275,000 ETH worth of ANT were sold.&#x20;
+
+Added together with ANT sold in the pre-sale, ANT granted to the Aragon Institution (the Aragon Association) and ANT granted to founders and early contributors, the **total initial supply of ANT** after the token sale is **39,609,523.80952380954 ANT**.
+
+You can read more related information about the token sale here:
 
 * [Aragon Network token sale terms](https://blog.aragon.org/aragon-network-token-sale-terms-8998f63a3429)
 * [Pre-sale transparency report](https://blog.aragon.org/pre-sale-transparency-report-333e310304c/)
@@ -18,7 +22,9 @@ Related information:
 
 **Total supply**: 39,609,523.80952380954 ANT
 
+{% hint style="success" %}
 _Total supply will be constant only until the Aragon Network is deployed. From then on, ANT holders will participate in Aragon Network governance to decide ANT's issuance policy and inflation rate going forward._
+{% endhint %}
 
 ## Historical contracts
 

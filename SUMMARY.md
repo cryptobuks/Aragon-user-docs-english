@@ -95,7 +95,7 @@
 
 * [Aragon Network Token](the-token-ant/about-the-token/README.md)
   * [About ANT](the-token-ant/about-the-token/about-ant.md)
-  * [Historical token sale information](the-token-ant/about-the-token/historical-token-sale-information.md)
+  * [Historical token sale](the-token-ant/about-the-token/historical-token-sale-information.md)
 * [Developers](the-token-ant/developers/README.md)
   * [Quick start](the-token-ant/developers/quick-start.md)
   * [Integrating ANT](the-token-ant/developers/integrating-ant.md)
