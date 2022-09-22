@@ -1,12 +1,16 @@
-# ANTv1: Non-standard behaviours and gotchas
+# Non-standard behaviours and gotchas
 
+{% hint style="warning" %}
 Some specific behaviours encoded into ANTv1 may be useful to be aware of, even when not programmatically interacting with the contract.
+
+> **This page contains technical information.**
+{% endhint %}
 
 ## Gas
 
-Because ANTv1 includes historical balance records for each address, token transfers are slightly more expensive than some other tokens.
+Because ANTv1 includes historical balance records for each address, t**oken transfers are slightly more expensive** than some other tokens.
 
-The exact amount per transfer will differ between hardfork environments and whether the receiver has previously held an ANTv1 balance before, but it is safe to start with a gas limit of 150,000 and optimize lower over time.
+The exact amount per transfer will differ between hardfork environments and whether the receiver has previously held an ANTv1 balance before, but it is safe to **start with a gas limit of 150,000** and optimize lower over time.
 
 ## Changing non-zero allowances
 
@@ -18,7 +22,7 @@ It useful to note that this behaviour is considered non-standard for ERC20s, and
 
 ## Initially vested tokens
 
-The ANTv1 contract includes specific functionality for whitelisted addresses to create irrevocable time-based token vests by transferring tokens from their own balance.
+The ANTv1 contract includes **specific functionality for whitelisted addresses** to create irrevocable time-based token vests by transferring tokens from their own balance.
 
 Some token holders (founders, advisors, and early contributors) received tokens around the initial token sale that were granted in such a way to limit their transferability.
 
@@ -26,6 +30,6 @@ Although all such tokens are now vested and transferable in full, [this blog pos
 
 ## Receiving ETH
 
+{% hint style="danger" %}
 Sending ETH directly to the ANTv1 contract will revert. You should never have a reason to want to do this!
-
-
+{% endhint %}
