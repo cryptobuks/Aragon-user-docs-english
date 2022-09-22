@@ -93,8 +93,7 @@
 
 ## 🏗 THE TOKEN ANT
 
-* [Aragon Network Token](the-token-ant/aragon-network-token.md)
-* [About the Token](the-token-ant/about-the-token/README.md)
+* [Aragon Network Token](the-token-ant/about-the-token/README.md)
   * [About ANT](the-token-ant/about-the-token/about-ant.md)
   * [Historical token sale information](the-token-ant/about-the-token/historical-token-sale-information.md)
 * [Developers](the-token-ant/developers/README.md)
