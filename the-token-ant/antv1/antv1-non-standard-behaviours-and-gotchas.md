@@ -1,7 +1,7 @@
 # Non-standard behaviours and gotchas
 
 {% hint style="warning" %}
-Some specific behaviours encoded into ANTv1 may be useful to be aware of, even when not programmatically interacting with the contract.
+Some **specific behaviours encoded** into ANTv1 may be useful to be aware of, even when not programmatically interacting with the contract.
 
 > **This page contains technical information.**
 {% endhint %}

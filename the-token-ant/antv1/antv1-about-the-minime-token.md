@@ -1,14 +1,21 @@
-# ANTv1: About the MiniMe token
+# About the MiniMe token
 
-ANTv1 is an instance of a MiniMe token.
+{% hint style="warning" %}
+Some specific information about the **MiniMe token** may be useful, even when not programmatically interacting with the contract.
 
-MiniMe tokens are standard ERC20 tokens with additional functionality.
+> **This page contains technical information.**
+{% endhint %}
+
+## Focus
+
+* **ANTv1** is an instance of a **MiniMe token**.
+* MiniMe tokens are **standard ERC20** tokens with **additional functionality**.
 
 ## Advanced functionality
 
 ### The token is easy to clone!
 
-Anybody can create a new clone token from a MiniMe token with an initial distribution identical to the original token at a specified block. The address calling the `createCloneToken()` function will become the token controller and the token's default settings can be specified in the function call.
+Anybody can create a **new clone token from a MiniMe** token with an initial distribution identical to the original token at a specified block. The address calling the `createCloneToken()` function will become the token controller and the token's default settings can be specified in the function call.
 
 ```
 function createCloneToken(
@@ -35,7 +42,7 @@ function balanceOfAt(address _holder, uint _blockNumber) view returns (uint);
 
 ### Optional token controller
 
-The controller of the contract can generate/destroy/transfer tokens at its own discretion. The controller can be a regular account, but the intention is for the controller to be another contract that imposes transparent rules on the token's issuance and functionality. The token controller is not required for the MiniMe token to function, if there is no reason to generate/destroy/transfer tokens, the controller can be set to `address(0)` and this functionality will be disabled.
+The **controller** of the contract can **generate/destroy/transfer tokens** at its own discretion. The controller can be a regular account, but the intention is for the controller to be another contract that imposes transparent rules on the token's issuance and functionality. The token controller is not required for the MiniMe token to function, if there is no reason to generate/destroy/transfer tokens, the controller can be set to `address(0)` and this functionality will be disabled.
 
 For example, a TokenCreation contract can be set as the controller of the MiniMe token and at the end of the token creation period, the controller can be transferred to `address(0)`, to guarantee that no new tokens will be created.
 
@@ -70,5 +77,3 @@ The cloning functionality allows for incredibly powerful functionality, effectiv
 8. Lots of other applications including all the applications the standard ERC20 token can be used for.
 
 All these applications and more are enabled by the MiniMe token contract. The most amazing part being that anyone who wants to add these features has the ability to, in a permissionless yet safe manner without affecting the parent token's intended functionality.
-
-
