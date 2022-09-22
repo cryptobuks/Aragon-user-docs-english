@@ -1,8 +1,12 @@
 # About ANT
 
-A high-level overview of the Aragon Network Token can be found on its [token page](https://aragon.org/token/ant).
+{% hint style="info" %}
+In this section, you can find a general overview of the Token ANT. A high-level overview of the Aragon Network Token can be found on its [token page](https://aragon.org/token/ant).
+{% endhint %}
 
-Aragon Network Token (ticker: [ANT](https://coinmarketcap.com/currencies/aragon/)) is the native token of the [Aragon Network](https://aragon.network/). ANT is primarily used for the governance of the Aragon Network.
+## What is ANT?
+
+Aragon Network Token (ticker: [**ANT**](https://coinmarketcap.com/currencies/aragon/)) is the native token of the [Aragon Network.](https://andao.aragon.org/) ANT is primarily used for the **governance** of the Aragon Network. ANT holders have control of the Aragon Network DAO (AN DAO) through the vote of the proposals. Historically the token ANT was used for staking in Aragon Court. This use today is almost dismissed.
 
 ## ANT uses
 
@@ -26,7 +30,9 @@ On March 6, 2020, the venture capital firm Placeholder published an analysis of 
 
 ## Obtaining ANT
 
-_Disclaimer: Nothing on this page or a linked page should be taken as investment advice. Inclusion of a service does not constitute an endorsement of the service by the Aragon Association or any other member of the Aragon project. Please do your own research before trading ANT or using any of the listed services to trade ANT. Keep your funds safe and only do business with people for whom you have a good reason to trust._
+{% hint style="warning" %}
+_**Disclaimer**: Nothing on this page or a linked page should be taken as investment advice. Inclusion of a service does not constitute an endorsement of the service by the Aragon Association or any other member of the Aragon project. Please **do your own research** before trading ANT or using any of the listed services to trade ANT. **Keep your funds safe** and only do business with people for whom you have a good reason to trust._
+{% endhint %}
 
 ANT can be obtained across a variety of exchanges, on-chain and off-chain. Please consult [this page](https://aragon.org/token/exchanges) for some of the supported exchanges.
 
@@ -40,4 +46,6 @@ In addition to self-custody tools available in hardware and software form, insti
 * Anchorage ([anchorage.com](https://anchorage.com/))
 * BitGo ([bitgo.com](https://www.bitgo.com/))
 
-_Disclaimer: Inclusion of a service does not constitute an endorsement of the service by the Aragon Association or any other member of the Aragon project. Please do your own research before giving custody of your assets to any entity on this page. Keep your funds safe and only do business with people for whom you have a good reason to trust._
+{% hint style="warning" %}
+_**Disclaimer**: Inclusion of a service does not constitute an endorsement of the service by the Aragon Association or any other member of the Aragon project. Please **do your own research** before giving custody of your assets to any entity on this page. **Keep your funds safe** and only do business with people for whom you have a good reason to trust._
+{% endhint %}
