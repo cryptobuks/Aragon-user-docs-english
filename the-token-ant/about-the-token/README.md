@@ -11,7 +11,7 @@ Welcome to Aragon Network Token's documentation. In this section, you will find 
 * The [**Developers**](../developers/) section contains useful information for developers wishing to programmatically interact with ANT.
 * The [**ANTv1** ](../antv1/)section contains technical materials related to ANTv1.
 * The [**Upgrade**](../antv1/upgrading-to-antv2/) section contains user guides and documentation for upgrading ANTv1 to ANTv2. Visit the [**Upgrade Portal**](https://upgrade.aragon.org/#/) to upgrade your ANT!
-* The [**Security**](../security/) section contains information relevant for security specialists.
+* The [**Security**](../security.md) section contains information relevant for security specialists.
 
 
 {% endhint %}

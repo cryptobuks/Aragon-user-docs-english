@@ -110,8 +110,7 @@
   * [ANTv1: Non-standard behaviours and gotchas](the-token-ant/antv1/antv1-non-standard-behaviours-and-gotchas.md)
   * [ANTv1: About the MiniMe token](the-token-ant/antv1/antv1-about-the-minime-token.md)
   * [The initial token sale flow](the-token-ant/antv1/the-initial-token-sale-flow.md)
-* [Security](the-token-ant/security/README.md)
-  * [Security policy](the-token-ant/security/security-policy.md)
+* [Security policy](the-token-ant/security.md)
 
 ## ‼ FAQ
 
