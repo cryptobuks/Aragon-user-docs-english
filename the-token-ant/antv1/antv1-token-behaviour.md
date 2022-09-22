@@ -1,11 +1,11 @@
-# ANTv1: Token behaviour
+# Token behaviour
 
 **👉 Important information**:
 
 * ANTv1's token contract address is [`0x960b236A07cf122663c4303350609A66A7B288C0`](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0)
 * ANTv1 is a ERC20 token, specifically a [MiniMe token](antv1-about-the-minime-token.md)
 * Its current controller is a non-changeable controller, [`0x2443d44325bb07861Cd8C9C8Ba1569b6c39D9d95`](https://etherscan.io/address/0x2443d44325bb07861Cd8C9C8Ba1569b6c39D9d95), only allowing a specified address to mint more tokens
-* [ANTv1 has been deprecated in favour of ANTv2](upgrading-to-antv2/), but ANTv1 will forever be a functional ERC-20 token that is transferable and tradable
+* [ANTv1 has been deprecated in favour of ANTv2](../upgrading-to-antv2/), but ANTv1 will forever be a functional ERC-20 token that is transferable and tradable
 
 ## Introduction
 
@@ -37,6 +37,6 @@ Currently this address is the [Community Multisig](../developers/historical-depl
 
 ## ANTv2 upgrade
 
-In light of technical advancements in the Ethereum and decentralized technology ecosystems, [ANTv1 has been deprecated in favour of ANTv2 as the Aragon Network's governance token](upgrading-to-antv2/).
+In light of technical advancements in the Ethereum and decentralized technology ecosystems, [ANTv1 has been deprecated in favour of ANTv2 as the Aragon Network's governance token](../upgrading-to-antv2/).
 
 Despite being deprecated, ANTv1 is forever "unstoppable": it will continue to be transferable and tradable on Ethereum.
