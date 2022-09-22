@@ -173,7 +173,6 @@
   * [Security notice for organizations created before Aragon 0.8](faq/miscellaneous/security-notice-for-organizations-created-before-aragon-0.8.md)
   * [General troubleshooting tips](faq/miscellaneous/general-troubleshooting-tips.md)
 * [🏗 ANT Token](faq/ant-token/README.md)
-  * [What is ANT?](faq/ant-token/what-is-ant.md)
   * [What can I do with ANT?](faq/ant-token/what-can-i-do-with-ant.md)
   * [Do I get any additional benefits for holding ANT over the long term?](faq/ant-token/do-i-get-any-additional-benefits-for-holding-ant-over-the-long-term.md)
   * [Who holds ANT?](faq/ant-token/who-holds-ant.md)
